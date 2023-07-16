@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @o-abolade
+- 👋 Hi, I’m Ore Abolade
 - 👀 I’m interested in Electrical and Computer Engineering, and Artificial Intelligence.
 - 📫 How to reach me oabolade@andrew.cmu.edu
 
