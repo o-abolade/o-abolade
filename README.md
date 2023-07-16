@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @o-abolade
-- 👀 I’m interested in mechanical engineering 
-- 📫 How to reach me orabol650@gmail.com
+- 👀 I’m interested in Electrical and Computer Engineering, and Artificial Intelligence.
+- 📫 How to reach me oabolade@andrew.cmu.edu
 
 <!---
 o-abolade/o-abolade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
