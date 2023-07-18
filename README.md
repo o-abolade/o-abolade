@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ore Abolade
-- 👀 I’m interested in Electrical and Computer Engineering, and Artificial Intelligence.
+- 👀 I’m pursuing a major in Electrical and Computer Engineering, and  a minor in Artificial Intelligence.
 - 📫 How to reach me oabolade@andrew.cmu.edu
 
 <!---
